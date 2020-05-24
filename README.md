@@ -2,6 +2,8 @@
 
 This is a basic lemp stack to run Laravel on a container. It is intended for development, and not production.
 
+I'm learning docker at the moment, so if anyone sees anything that could be added or made better, please send a PR or open an issue!
+
 ## Usage
 
 - Require this repo as a submodule on a project;
