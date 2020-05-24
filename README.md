@@ -6,7 +6,7 @@ I'm learning docker at the moment, so if anyone sees anything that could be adde
 
 ## Usage
 
-- Require this repo as a submodule on a project;
+- Copy the content of this repo to your own Laravel project's root folder;
 - See if any specific configuration should be added to `my.cnf`, `app.conf` and `local.ini` under the relevant directory of the `_docker` folder;
 - Make sure the `.env` file of your Laravel project uses the required database values found down this readme;
 - Run `docker-compose up -d` and have fun.
